@@ -36,6 +36,7 @@ bash
 python train.py
 
 ## 🧱 Model Architecture
+```
 Input (150x150x3) 
   │
   ├── Rescaling (1./255)
@@ -49,7 +50,7 @@ Input (150x150x3)
   ├── Flatten
   ├── Dense (256, ReLU) -> Dropout (0.5)
   └── Dense (4, Softmax) -> Output
-
+```
 
 ### 📜 License
 ---
