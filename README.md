@@ -30,7 +30,7 @@ This project uses the **Brain Tumor MRI Dataset** available on Kaggle:
 ```bash
 git clone [https://github.com/your-username/brain-tumor-mri-classification.git](https://github.com/your-username/brain-tumor-mri-classification.git)
 cd brain-tumor-mri-classification
-
+```
 ## 🚀 How to Run
 bash
 python train.py
