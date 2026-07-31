@@ -51,7 +51,15 @@ Input (150x150x3)
   ├── Flatten
   ├── Dense (256, ReLU) -> Dropout (0.5)
   └── Dense (4, Softmax) -> Output
+
+
 ### 📜 License
 ---
 
 <FollowUp label="Want me to add a custom badges section (Python, TensorFlow, License) or license file to this README?" query="Add badge headers and license details to the Brain Tumor MRI GitHub README file."/>
+
+
+## Conclusion
+This project demonstrates an end-to-end deep learning pipeline for automated brain tumor classification using MRI scans. By applying a custom Convolutional Neural Network (CNN) with built-in data augmentation, batch normalization, and dropout regularization, the model effectively categorizes scans into four distinct classes (glioma, meningioma, notumor, and pituitary).
+
+The integrated pipeline streamlines medical image preprocessing, model training, and performance evaluation, providing an accurate, reliable, and non-invasive computer-aided diagnostic tool to assist clinical decision-making.
