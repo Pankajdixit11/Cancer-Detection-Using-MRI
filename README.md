@@ -24,8 +24,6 @@ This project uses the **Brain Tumor MRI Dataset** available on Kaggle:
 3. `notumor`
 4. `pituitary`
 
----
-
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the Repository
